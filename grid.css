@@ -1,0 +1,26 @@
+.ni-row {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.ni-row .ni-column {
+    flex: 1;
+    order: 1;
+}
+
+.ni-row .ni-column-2 {
+    flex: 2;
+}
+
+.ni-row .ni-column-3 {
+    flex: 3;
+}
+
+.ni-row .ni-column-4 {
+    flex: 4;
+}
+
+.ni-row .ni-column-last {
+    text-align: right;
+}

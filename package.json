@@ -1,6 +1,6 @@
 {
-  "name": "@noissue/css",
-  "version": "1.0.0",
+  "name": "noissue-css",
+  "version": "1.0.2",
   "description": "Noissue css framework",
   "main": "",
   "scripts": {
