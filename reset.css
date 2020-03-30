@@ -55,11 +55,6 @@ a {
     -moz-osx-font-smoothing: grayscale;
 }
 
-ol,
-ul {
-    list-style: none;
-}
-
 img {
     max-width: 100%;
     height: auto;
